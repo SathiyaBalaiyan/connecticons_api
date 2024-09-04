@@ -1,0 +1,80 @@
+TRIGGERED ON: 2024-08-13 18:12:19
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 18:11:17
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"No data matched","error":false,"data":[]}
+
+TRIGGERED ON: 2024-08-13 18:09:13
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:59:27
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:59:22
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Adminf"}
+RESPONSE: {"message":"No data matched","error":false,"data":[]}
+
+TRIGGERED ON: 2024-08-13 17:59:15
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:59:06
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:57:35
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Super Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:57:23
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Super Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:56:08
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Super Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:55:22
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"No data matched","error":false,"data":[]}
+
+TRIGGERED ON: 2024-08-13 17:55:04
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":"Admin"}
+RESPONSE: {"message":"No data matched","error":false,"data":[]}
+
+TRIGGERED ON: 2024-08-13 17:54:26
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"2","poNumber":"3456","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":1,"gstNumber":null,"vendorName":"Super Admin","vendorCode":null,"region":null,"createdAt":"2024-08-02"}]}
+
+TRIGGERED ON: 2024-08-13 17:54:14
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"5","poNumber":"3456","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"No data matched","error":false,"data":[]}
+
+TRIGGERED ON: 2024-08-13 17:54:05
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"5","poNumber":"345","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"No data matched","error":false,"data":[]}
+
+TRIGGERED ON: 2024-08-13 17:53:28
+LINK: http://localhost:8000/api/po_filter
+{"loginUserId":"5","poNumber":"","gstNumber":"","vendorName":""}
+RESPONSE: {"message":"data fetched successfully","error":false,"data":[{"poId":2,"gstNumber":null,"vendorName":"Admin","vendorCode":null,"region":null,"createdAt":"2024-08-13"}]}
+
